@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My studylog</title>
+    <link>https://directeye.github.io/hgblog/</link>
+    <description>Recent content on My studylog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 02 Oct 2016 01:57:27 +0900</lastBuildDate>
+    <atom:link href="https://directeye.github.io/hgblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://directeye.github.io/hgblog/about/</link>
+      <pubDate>Sun, 02 Oct 2016 01:57:27 +0900</pubDate>
+      
+      <guid>https://directeye.github.io/hgblog/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
+
+&lt;p&gt;苦手意識を持つ英語を安価に克服したい41歳のおじさん&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
