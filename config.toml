@@ -1,0 +1,17 @@
+baseurl = "https://directeye.github.io/hgblog"
+languageCode = "ja-jp"
+title = "My studylog"
+theme = "polymer"
+canonifyurls = true
+HasCJKLanguage = true
+
+[permalinks]
+post = "/:year/:month/:day/:slug/"
+
+[taxnomies]
+category = "categories"
+tag = "tags"
+
+[params]
+author = "directeye"
+photo = "images/nana.png"
